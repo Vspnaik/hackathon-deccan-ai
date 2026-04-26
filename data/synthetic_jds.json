@@ -1,0 +1,628 @@
+[
+  {
+    "job_id": "jd_001",
+    "role_title": "Senior Backend Engineer",
+    "department": "Engineering",
+    "seniority": "senior",
+    "employment_type": "full_time",
+    "work_mode": "hybrid",
+    "locations": [
+      "Bengaluru"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "FastAPI",
+        "weight": 0.9
+      },
+      {
+        "name": "PostgreSQL",
+        "weight": 0.8
+      },
+      {
+        "name": "Redis",
+        "weight": 0.7
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Docker",
+        "weight": 0.5
+      },
+      {
+        "name": "Kafka",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 4,
+    "max_years_experience": 8,
+    "industries": [
+      "fintech",
+      "saas"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "salary_range_lpa": {
+      "min": 18,
+      "max": 28
+    },
+    "notice_period_days_max": 60,
+    "keywords": [
+      "microservices",
+      "backend systems",
+      "apis"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": true
+    }
+  },
+  {
+    "job_id": "jd_002",
+    "role_title": "Frontend Engineer",
+    "department": "Product",
+    "seniority": "mid",
+    "employment_type": "full_time",
+    "work_mode": "remote",
+    "locations": [
+      "Remote India"
+    ],
+    "must_have_skills": [
+      {
+        "name": "React",
+        "weight": 1.0
+      },
+      {
+        "name": "TypeScript",
+        "weight": 0.9
+      },
+      {
+        "name": "CSS3",
+        "weight": 0.7
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Next.js",
+        "weight": 0.6
+      },
+      {
+        "name": "GraphQL",
+        "weight": 0.4
+      }
+    ],
+    "min_years_experience": 2,
+    "max_years_experience": 5,
+    "industries": [
+      "saas",
+      "ecommerce"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "B.Sc CS"
+    ],
+    "salary_range_lpa": {
+      "min": 10,
+      "max": 20
+    },
+    "notice_period_days_max": 30,
+    "keywords": [
+      "react",
+      "ui",
+      "frontend"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": false
+    }
+  },
+  {
+    "job_id": "jd_003",
+    "role_title": "ML Engineer",
+    "department": "AI/ML",
+    "seniority": "senior",
+    "employment_type": "full_time",
+    "work_mode": "hybrid",
+    "locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "PyTorch",
+        "weight": 0.9
+      },
+      {
+        "name": "scikit-learn",
+        "weight": 0.7
+      },
+      {
+        "name": "SQL",
+        "weight": 0.6
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Hugging Face",
+        "weight": 0.5
+      },
+      {
+        "name": "MLflow",
+        "weight": 0.4
+      }
+    ],
+    "min_years_experience": 4,
+    "max_years_experience": 10,
+    "industries": [
+      "fintech",
+      "healthtech"
+    ],
+    "education_preferences": [
+      "M.Tech",
+      "M.S."
+    ],
+    "salary_range_lpa": {
+      "min": 22,
+      "max": 40
+    },
+    "notice_period_days_max": 60,
+    "keywords": [
+      "machine learning",
+      "deep learning",
+      "nlp"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": true
+    }
+  },
+  {
+    "job_id": "jd_004",
+    "role_title": "DevOps Engineer",
+    "department": "Infrastructure",
+    "seniority": "mid",
+    "employment_type": "full_time",
+    "work_mode": "onsite",
+    "locations": [
+      "Mumbai",
+      "Pune"
+    ],
+    "must_have_skills": [
+      {
+        "name": "AWS",
+        "weight": 1.0
+      },
+      {
+        "name": "Docker",
+        "weight": 0.9
+      },
+      {
+        "name": "Kubernetes",
+        "weight": 0.9
+      },
+      {
+        "name": "Terraform",
+        "weight": 0.8
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Ansible",
+        "weight": 0.4
+      },
+      {
+        "name": "Prometheus",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 3,
+    "max_years_experience": 7,
+    "industries": [
+      "saas",
+      "fintech"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "B.E."
+    ],
+    "salary_range_lpa": {
+      "min": 14,
+      "max": 25
+    },
+    "notice_period_days_max": 45,
+    "keywords": [
+      "devops",
+      "cloud",
+      "infrastructure"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": false
+    }
+  },
+  {
+    "job_id": "jd_005",
+    "role_title": "Full-Stack Engineer",
+    "department": "Engineering",
+    "seniority": "senior",
+    "employment_type": "full_time",
+    "work_mode": "hybrid",
+    "locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "must_have_skills": [
+      {
+        "name": "React",
+        "weight": 1.0
+      },
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "PostgreSQL",
+        "weight": 0.8
+      },
+      {
+        "name": "Docker",
+        "weight": 0.7
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "AWS",
+        "weight": 0.5
+      },
+      {
+        "name": "Redis",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 5,
+    "max_years_experience": 10,
+    "industries": [
+      "saas",
+      "edtech"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "salary_range_lpa": {
+      "min": 20,
+      "max": 35
+    },
+    "notice_period_days_max": 60,
+    "keywords": [
+      "full-stack",
+      "react",
+      "python",
+      "product engineering"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": true
+    }
+  },
+  {
+    "job_id": "jd_006",
+    "role_title": "Data Engineer",
+    "department": "Data",
+    "seniority": "mid",
+    "employment_type": "full_time",
+    "work_mode": "remote",
+    "locations": [
+      "Remote India"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "Apache Spark",
+        "weight": 0.9
+      },
+      {
+        "name": "SQL",
+        "weight": 0.8
+      },
+      {
+        "name": "Airflow",
+        "weight": 0.7
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Kafka",
+        "weight": 0.5
+      },
+      {
+        "name": "dbt",
+        "weight": 0.4
+      }
+    ],
+    "min_years_experience": 3,
+    "max_years_experience": 6,
+    "industries": [
+      "ecommerce",
+      "adtech"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "salary_range_lpa": {
+      "min": 14,
+      "max": 24
+    },
+    "notice_period_days_max": 30,
+    "keywords": [
+      "data engineering",
+      "etl",
+      "spark"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": false
+    }
+  },
+  {
+    "job_id": "jd_007",
+    "role_title": "Junior Backend Developer",
+    "department": "Engineering",
+    "seniority": "junior",
+    "employment_type": "full_time",
+    "work_mode": "onsite",
+    "locations": [
+      "Chennai"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "REST APIs",
+        "weight": 0.8
+      },
+      {
+        "name": "Git",
+        "weight": 0.6
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Docker",
+        "weight": 0.4
+      },
+      {
+        "name": "PostgreSQL",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 0,
+    "max_years_experience": 2,
+    "industries": [
+      "saas",
+      "edtech"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "B.Sc CS",
+      "MCA"
+    ],
+    "salary_range_lpa": {
+      "min": 4,
+      "max": 10
+    },
+    "notice_period_days_max": 30,
+    "keywords": [
+      "python",
+      "backend",
+      "junior"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": false
+    }
+  },
+  {
+    "job_id": "jd_008",
+    "role_title": "Lead Platform Engineer",
+    "department": "Platform",
+    "seniority": "lead",
+    "employment_type": "full_time",
+    "work_mode": "hybrid",
+    "locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Kubernetes",
+        "weight": 1.0
+      },
+      {
+        "name": "AWS",
+        "weight": 1.0
+      },
+      {
+        "name": "Terraform",
+        "weight": 0.9
+      },
+      {
+        "name": "Python",
+        "weight": 0.7
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Istio",
+        "weight": 0.5
+      },
+      {
+        "name": "ArgoCD",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 8,
+    "max_years_experience": 15,
+    "industries": [
+      "fintech",
+      "saas"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "salary_range_lpa": {
+      "min": 35,
+      "max": 55
+    },
+    "notice_period_days_max": 90,
+    "keywords": [
+      "platform",
+      "infrastructure",
+      "leadership"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": true
+    }
+  },
+  {
+    "job_id": "jd_009",
+    "role_title": "Senior Frontend Engineer",
+    "department": "Product",
+    "seniority": "senior",
+    "employment_type": "full_time",
+    "work_mode": "hybrid",
+    "locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "must_have_skills": [
+      {
+        "name": "React",
+        "weight": 1.0
+      },
+      {
+        "name": "TypeScript",
+        "weight": 1.0
+      },
+      {
+        "name": "Next.js",
+        "weight": 0.8
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "Figma",
+        "weight": 0.5
+      },
+      {
+        "name": "Storybook",
+        "weight": 0.4
+      }
+    ],
+    "min_years_experience": 5,
+    "max_years_experience": 9,
+    "industries": [
+      "saas",
+      "media"
+    ],
+    "education_preferences": [
+      "B.Tech",
+      "B.Sc CS"
+    ],
+    "salary_range_lpa": {
+      "min": 20,
+      "max": 32
+    },
+    "notice_period_days_max": 60,
+    "keywords": [
+      "react",
+      "frontend",
+      "design system"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": true
+    }
+  },
+  {
+    "job_id": "jd_010",
+    "role_title": "AI/NLP Engineer",
+    "department": "AI/ML",
+    "seniority": "mid",
+    "employment_type": "full_time",
+    "work_mode": "remote",
+    "locations": [
+      "Remote India"
+    ],
+    "must_have_skills": [
+      {
+        "name": "Python",
+        "weight": 1.0
+      },
+      {
+        "name": "NLP",
+        "weight": 1.0
+      },
+      {
+        "name": "Hugging Face",
+        "weight": 0.8
+      },
+      {
+        "name": "PyTorch",
+        "weight": 0.8
+      }
+    ],
+    "nice_to_have_skills": [
+      {
+        "name": "LangChain",
+        "weight": 0.6
+      },
+      {
+        "name": "LLMs",
+        "weight": 0.5
+      }
+    ],
+    "min_years_experience": 2,
+    "max_years_experience": 6,
+    "industries": [
+      "healthtech",
+      "saas"
+    ],
+    "education_preferences": [
+      "M.Tech",
+      "M.S."
+    ],
+    "salary_range_lpa": {
+      "min": 16,
+      "max": 30
+    },
+    "notice_period_days_max": 45,
+    "keywords": [
+      "nlp",
+      "llm",
+      "transformers",
+      "ai"
+    ],
+    "hard_constraints": {
+      "work_authorisation_required": false,
+      "must_accept_hybrid": false
+    }
+  }
+]

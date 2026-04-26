@@ -1,0 +1,112 @@
+[
+  {
+    "candidate_id": "d063771b-8c4b-432c-a574-fec1e9377fc5",
+    "submitted_at": "2026-04-26T18:28:19.067619",
+    "full_name": "surya",
+    "email": "surya@gmail.com",
+    "phone": "9493412345",
+    "location": "hyderabad",
+    "linkedin": "linkedin",
+    "github": "github.com",
+    "current_title": "software engineer",
+    "years_experience": 4,
+    "headline": "I was worked on pytorch, python",
+    "notice_period": "Immediate",
+    "employment_type": "Full-time",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "expert"
+      },
+      {
+        "name": "JavaScript",
+        "level": "expert"
+      },
+      {
+        "name": "C++",
+        "level": "expert"
+      },
+      {
+        "name": "Kafka",
+        "level": "expert"
+      },
+      {
+        "name": "LLM finetuning",
+        "level": "familiar"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Infosys",
+        "role": "AI engineer",
+        "duration": "jan to present",
+        "location": "Hyderabad",
+        "description": "led large team of ai"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ai content generation",
+        "description": "Built using lang chain and langraf",
+        "tech": "python, fast api",
+        "link": "github"
+      }
+    ],
+    "education": {
+      "degree": "BTech CSE",
+      "institution": "IIT Patna",
+      "year": "2025",
+      "score": "8.5",
+      "certifications": ""
+    },
+    "preferences": {
+      "preferred_role": "AI engineer",
+      "expected_salary": "15",
+      "preferred_location": "Hyderabad , banglore",
+      "work_mode": "Remote",
+      "open_to_relocation": "Yes",
+      "additional_notes": ""
+    },
+    "profile_complete": true,
+    "chat_completed": true,
+    "interest_score": 60,
+    "conversation_log": [
+      {
+        "role": "ai",
+        "message": "Hi surya! \ud83d\udc4b I'm Alex, the AI Talent Scout. I've reviewed your profile and I'm really impressed with your background as a **software engineer**. I'd love to ask you a few quick questions to understand what you're really looking for right now. This will only take 3\u20134 minutes. **First \u2014 what's driving your job search right now?** Are you actively looking, passively exploring, or just keeping options open?"
+      },
+      {
+        "role": "user",
+        "message": "I am actively looking"
+      },
+      {
+        "role": "ai",
+        "message": "That's helpful context, thank you! Your experience with **Python, JavaScript, C++** looks strong. On a scale of 1\u201310, how urgently are you looking to make a move? And what's your ideal timeline for starting a new role? (You mentioned 'Immediate' as your notice period \u2014 does that still hold?)"
+      },
+      {
+        "role": "user",
+        "message": "9"
+      },
+      {
+        "role": "ai",
+        "message": "Great. Now, what kind of role are you most excited about? You mentioned **AI engineer** \u2014 is that your primary focus, or are you open to adjacent areas? What would make a role a **definite yes** for you?"
+      },
+      {
+        "role": "user",
+        "message": "LLM finetuning"
+      },
+      {
+        "role": "ai",
+        "message": "Almost done! Two last things: **What are your salary expectations** and your preferred work arrangement \u2014 remote, hybrid, or on-site? And is there anything that would be a **hard dealbreaker** for you in a new role?"
+      },
+      {
+        "role": "user",
+        "message": "15"
+      },
+      {
+        "role": "ai",
+        "message": "Thank you so much, surya! \ud83d\ude4f That gives me a really clear picture of what you're looking for. I'm going to use everything we discussed to match you with the best-fit opportunities. We'll reach out within 2\u20133 business days if there's a strong match. Any final questions for me before I wrap up?"
+      }
+    ]
+  }
+]
