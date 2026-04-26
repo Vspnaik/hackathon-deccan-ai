@@ -36,6 +36,24 @@ JD Input → JD Parser → Hard Filter → Hybrid Retrieval (Dense + Sparse + Ru
 - Python 3.11+
 - Docker Desktop (for PostgreSQL + pgvector)
 - (Optional) Gemini API key
+### For the .env file add this
+# Database configuration
+DATABASE_URL=postgresql://postgres:password@localhost:5432/talent_scout
+
+# Google Gemini API key (required for JD parsing, outreach simulation, explanation generation)
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# LLM Model (default: gemini-2.5-flash)
+LLM_MODEL=gemini-2.5-flash
+
+# Embedding model (local sentence-transformers model name)
+EMBEDDING_MODEL=all-MiniLM-L6-v2
+
+# Reranker model
+RERANKER_MODEL=cross-encoder/ms-marco-MiniLM-L6-v2
+
+
+
 
 ### 1. Setup Environment
 
