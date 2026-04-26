@@ -37,6 +37,9 @@ JD Input → JD Parser → Hard Filter → Hybrid Retrieval (Dense + Sparse + Ru
 - Docker Desktop (for PostgreSQL + pgvector)
 - (Optional) Gemini API key
 ### For the .env file add this
+
+```
+
 # Database configuration
 DATABASE_URL=postgresql://postgres:password@localhost:5432/talent_scout
 
@@ -51,6 +54,7 @@ EMBEDDING_MODEL=all-MiniLM-L6-v2
 
 # Reranker model
 RERANKER_MODEL=cross-encoder/ms-marco-MiniLM-L6-v2
+```
 
 
 
